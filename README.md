@@ -1,5 +1,5 @@
 # MultiUserChat
-package com.muc;
+
 
 fixed String Utils error
 
